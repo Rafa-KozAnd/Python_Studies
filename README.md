@@ -25,7 +25,8 @@
 
 ## 📘 Docs & References
 
-- [Official Documentation]([https://react.dev/](https://www.python.org/))  
+- [Official Documentation](https://www.python.org/)  
 - [Online Compiler](https://www.onlinegdb.com/online_python_compiler)  
-- [PyCharm]([https://github.com/enaqx/awesome-react](https://www.jetbrains.com/pycharm/))
+- [PyCharm](https://www.jetbrains.com/pycharm/)
+
 

@@ -7,21 +7,19 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/license/Rafa-KozAnd/Python_Studies">
 </p>
 
+------------------------------------------------
+
 # Python_Projects
 
-- Project Name: Python Studies;
 - Languages: Python;
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: ;
-- Obs: ;
-- Version: v.1.0.0
-- Last Update Date: 25/08/2025.
-
+- Last Update Date: 17/12/2025;
 
 ## 📂 Structure
 
-- `Games/` → Small games to practice logic and components. 
-- `Programs/` → Simple applications with UI and features.
+- `Games/` → Small games to practice logic and components; 
+- `Programs/` → Simple applications with UI and features;
 
 ## 📘 Docs & References
 

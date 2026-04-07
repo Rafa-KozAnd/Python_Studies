@@ -14,7 +14,7 @@
 - Languages: Python;
 - Softwares/Work Tools: 'V.S. Code';
 - Resume: A repository of Python learning resources with exercises and mini-projects covering logic, games, and simple applications;
-- Last Update Date: 17/12/2025;
+- Last Update Date: 07/04/2026;
 
 ## 📂 Structure
 

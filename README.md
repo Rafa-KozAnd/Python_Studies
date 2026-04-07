@@ -9,17 +9,17 @@
 
 ------------------------------------------------
 
-# Python_Projects
+# Python_Studies
 
 - Languages: Python;
 - Softwares/Work Tools: 'V.S. Code';
-- Resume: ;
+- Resume: A repository of Python learning resources with exercises and mini-projects covering logic, games, and simple applications;
 - Last Update Date: 17/12/2025;
 
 ## 📂 Structure
 
-- `Games/` → Small games to practice logic and components; 
-- `Programs/` → Simple applications with UI and features;
+- `games/` → Small games to practice logic and components; 
+- `programs/` → Simple applications with UI and features;
 
 ## 📘 Docs & References
 
@@ -27,4 +27,4 @@
 - [Online Compiler](https://www.onlinegdb.com/online_python_compiler)  
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 
-
+------------------------------------------------
